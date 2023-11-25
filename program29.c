@@ -50,10 +50,7 @@ int main(){
     for(int i = 0; i < size_of_array; i++){
         if(array[i] == elem_t_searched){
             printf("Element [%d] found at index: %d\n", elem_t_searched, i+1);
-        }else{
-
         }
-
     }
 
 
