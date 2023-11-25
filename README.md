@@ -1,7 +1,9 @@
 # Introduction
 This repository contains the programs which were discussed during the practical sessions held at IILM University in the year 2023 for the students of 1st year Computer Science branch.
 
+## Table of Contents
 - [Introduction](#introduction)
+  - [Table of Contents](#table-of-contents)
   - [Syllabus](#syllabus)
     - [Unit 1: Basics of Computer System and Introduction to C](#unit-1-basics-of-computer-system-and-introduction-to-c)
       - [Introduction to Computing elements, Components of computer system:](#introduction-to-computing-elements-components-of-computer-system)
