@@ -52,7 +52,5 @@ int main(){
             printf("Element [%d] found at index: %d\n", elem_t_searched, i+1);
         }
     }
-
-
     return 0;
 }

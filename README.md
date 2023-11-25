@@ -12,7 +12,7 @@ This repository contains the programs which were discussed during the practical 
    6. Algorithms
    7. Flow Charts
 
-#### C:
+#### Introduction to C:
    1. Fundamentals
    2. Variable
    3. Character Set
@@ -78,3 +78,14 @@ This repository contains the programs which were discussed during the practical 
    1. Creating a Data File
    2. Processing a Data File
    3. Opening a Data File
+
+## Programs
+   1. Write a Program to print different data types in ‘C’ and their ranges.
+   2. Write a C program to find sum and average of three numbers.
+   3. Write a program to swap the values of two variables with and without using third
+variable.
+   4. Write a program to perform the Calculator operations, namely, addition,
+subtraction, multiplication, division and square of a number.
+   5. Write a Program to read radius value from the keyboard and calculate the area of
+circle and print the result in both floating and exponential notation.
+   6. Write a program that shows the binary equivalent of a given positive number.
