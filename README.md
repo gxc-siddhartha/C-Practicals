@@ -1,6 +1,23 @@
 # Introduction
 This repository contains the programs which were discussed during the practical sessions held at IILM University in the year 2023 for the students of 1st year Computer Science branch.
 
+- [Introduction](#introduction)
+  - [Syllabus](#syllabus)
+    - [Unit 1: Basics of Computer System and Introduction to C](#unit-1-basics-of-computer-system-and-introduction-to-c)
+      - [Introduction to Computing elements, Components of computer system:](#introduction-to-computing-elements-components-of-computer-system)
+      - [Introduction to C:](#introduction-to-c)
+    - [Unit 2: Controlling Execution and Flow of a Program](#unit-2-controlling-execution-and-flow-of-a-program)
+      - [Control Statements:](#control-statements)
+      - [Nested control structures:](#nested-control-structures)
+    - [Unit 3: Using Collection of Data Types](#unit-3-using-collection-of-data-types)
+      - [Arrays:](#arrays)
+    - [Unit 4: What are Functions?](#unit-4-what-are-functions)
+    - [Unit 5: What are Pointers?](#unit-5-what-are-pointers)
+      - [Pointers:](#pointers)
+      - [Files:](#files)
+  - [Programs](#programs)
+
+
 ## Syllabus
 ### Unit 1: Basics of Computer System and Introduction to C
 #### Introduction to Computing elements, Components of computer system:
