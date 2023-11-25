@@ -3,7 +3,7 @@ This repository contains the programs which were discussed during the practical 
 
 ## Syllabus
 ### Unit 1: Basics of Computer System and Introduction to C
-**Introduction to Computing elements, Components of computer system:**
+#### Introduction to Computing elements, Components of computer system:
    1. Hardware
    2. Software
    3. CPU (Central Processing Unit)
@@ -12,7 +12,7 @@ This repository contains the programs which were discussed during the practical 
    6. Algorithms
    7. Flow Charts
 
-**C:**
+#### C:
    1. Fundamentals
    2. Variable
    3. Character Set
@@ -28,21 +28,21 @@ This repository contains the programs which were discussed during the practical 
    13. Simple C Programs
 
 ### Unit 2: Controlling Execution and Flow of a Program
-**Control Statements:** 
+#### Control Statements: 
    1. `if`
    2. `if-else`
    3. `while`
    4. `do-while`
    5. `for` loop
 
-**Nested control structures:**
+#### Nested control structures:
    1. `switch`
    2. `break`
    3. `continue`
    4. `go-to` statements
 
 ### Unit 3: Using Collection of Data Types
-**Arrays:** 
+#### Arrays: 
    1. Array Notation and Representation
    2. Manipulating Array Elements
    3. Using Multi-dimensional Arrays
@@ -66,7 +66,7 @@ This repository contains the programs which were discussed during the practical 
    7. Passing Arrays to Functions
 
 ### Unit 5: What are Pointers?
-**Pointers:** 
+#### Pointers: 
    1. Declarations
    2. Passing Pointers to Functions
    3. Operation in Pointers
@@ -74,7 +74,7 @@ This repository contains the programs which were discussed during the practical 
    5. Arrays of Pointers
    6. Structures and Pointers
 
-**Files:**
+#### Files:
    1. Creating a Data File
    2. Processing a Data File
    3. Opening a Data File
