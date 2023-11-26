@@ -106,3 +106,25 @@ subtraction, multiplication, division and square of a number.
    5. Write a Program to read radius value from the keyboard and calculate the area of
 circle and print the result in both floating and exponential notation.
    6. Write a program that shows the binary equivalent of a given positive number.
+   7. Write a program to determine if a given year is a leap year or not.
+   8. Write a program to calculate the electricity bill based on the starting and ending meter readings. The charges are as follows:
+   
+      | No. of Units Consumed | Rate (Rs)           |
+      | ---------------------- | -------------------- |
+      | 1-100                  | 1.50 per unit        |
+      | 101-300                | 2.00 per unit for excess of 100 units |
+      | 301-500                | 2.50 per unit for excess of 300 units |
+      | 501-above              | 3.25 per unit for excess of 500 units |
+   9. Write a program to perform airthematic operations on two numbers using switch case.
+   10. Write a program to calculate sum of individual digits of a given number.
+   11. Write a program that finds if a given number is a prime number.
+   12. Write a program to calculate the factorial of a given number.
+   13. Write a program to find if a given number is an Armstrong number or not.
+   14. Write a program to print multiplication tables from 1 to 10, except 3 and 5.
+   15. Write a program to print the Fibonacci series for given ‘N’ value.
+   15. Write a program to print the following patterns:
+      [Pattern 1](./assets/program16/pat1.png)
+      [Pattern 1](./assets/program16/pat2.png)
+      [Pattern 1](./assets/program16/pat3.png)
+   17. Write a program to preform various string manipulation operations on a string using built-in functions.
+   18. 
