@@ -127,4 +127,17 @@ circle and print the result in both floating and exponential notation.
       [Pattern 1](./assets/program16/pat2.png)
       [Pattern 1](./assets/program16/pat3.png)
    17. Write a program to preform various string manipulation operations on a string using built-in functions.
-   18. 
+   18. Write a program to store 10 elements in the 1-D array and print sum of the array.
+   19. Write a program to print minimum and maximum elements in the 1-D array.
+   20. Write a program to count no. of positive numbers, negative numbers and zeros in the Array.
+   21. Write a program to perform matrix addition and matrix subtraction.
+   22. Write a program to print the transpose of a matrix.
+   23. Write a C program to Store Student Information in Structure and Display it.
+   24. Write a C program to Store Employee Information in Union and Display it.
+   25. Write a program to display the number assigned to a day in a week using enumerated data type.
+   26. Write a program to find sum of two numbers using functions with arguments & without return type.
+   27. Write a program to swap two numbers using
+       1.  Call By Value 
+       2.  Call by Reference
+   28. Write a program to calculate factorial and GCD using recursion and non-recursion functions.
+   29. Write a program to search the given element by using linear search.
