@@ -124,8 +124,8 @@ circle and print the result in both floating and exponential notation.
    15. Write a program to print the Fibonacci series for given ‘N’ value.
    15. Write a program to print the following patterns:
       [Pattern 1](./assets/program16/pat1.png)
-      [Pattern 1](./assets/program16/pat2.png)
-      [Pattern 1](./assets/program16/pat3.png)
+      [Pattern 2](./assets/program16/pat2.png)
+      [Pattern 3](./assets/program16/pat3.png)
    17. Write a program to preform various string manipulation operations on a string using built-in functions.
    18. Write a program to store 10 elements in the 1-D array and print sum of the array.
    19. Write a program to print minimum and maximum elements in the 1-D array.
