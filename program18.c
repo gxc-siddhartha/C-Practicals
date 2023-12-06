@@ -1,19 +1,19 @@
 #include <stdio.h>
 
 int main() {
-    // Declare an array to store 10 elements
-    int array[10];
+    // Declare an array to store 5 elements
+    int array[5];
 
-    // Input: Prompt the user to enter 10 elements
-    printf("Enter 10 elements:\n");
-    for (int i = 0; i < 10; ++i) {
+    // Input: Prompt the user to enter 5 elements
+    printf("Enter 5 elements:\n");
+    for (int i = 0; i < 5; ++i) {
         printf("Element %d: ", i + 1);
         scanf("%d", &array[i]);
     }
 
     // Calculate the sum of the array
     int sum = 0;
-    for (int i = 0; i < 10; ++i) {
+    for (int i = 0; i < 5; ++i) {
         sum += array[i];
     }
 

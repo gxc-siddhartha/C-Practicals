@@ -1,24 +1,25 @@
-#include <stdio.h> #include <string.h>
+#include <stdio.h> 
+#include <string.h>
 
 int main() {
     // Declare and initialize a string
-    char inputString[100];
-    printf("Enter a string: ");
-    fgets(inputString, sizeof(inputString), stdin);
+    char inpStr[100];
+    printf("Enter a string: "); 
+    fgets(inpStr, sizeof(inpStr), stdin);
 
     // Remove trailing newline character
-    inputString[strcspn(inputString, "\n")] = '\0';
+    inpStr[strcspn(inpStr, "\n")] = '\0';
 
     // Display the original string
-    printf("Original String: %s\n", inputString);
+    printf("Original String: %s\n", inpStr);
 
     // Calculate the length of the string
-    int length = strlen(inputString);
+    int length = strlen(inpStr);
     printf("Length of the String: %d\n", length);
 
     // Copy the string to a new variable
     char copiedString[100];
-    strcpy(copiedString, inputString);
+    strcpy(copiedString, inpStr);
     printf("Copied String: %s\n", copiedString);
 
     // Concatenate two strings

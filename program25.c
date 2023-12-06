@@ -30,7 +30,7 @@ int main() {
     selectedDay = (enum Days)dayNumber;
 
     // Output: Display the number assigned to the selected day
-    printf("The number assigned to the selected day is: %d\n", selectedDay);
+    printf("The number assigned to the selected day is: %u\n", selectedDay);
 
     return 0;
 }
