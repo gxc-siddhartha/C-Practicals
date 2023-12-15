@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Define a union for storing employee information
 union EmployeeInfo {
     char name[50];
     int employeeID;
@@ -8,10 +7,8 @@ union EmployeeInfo {
 };
 
 int main() {
-    // Declare a variable of the EmployeeInfo union
     union EmployeeInfo employee;
-
-    // Input: Prompt the user to enter employee information
+    
     printf("Enter employee name: ");
     fgets(employee.name, sizeof(employee.name), stdin);
 
@@ -21,7 +18,7 @@ int main() {
     printf("Enter employee salary: ");
     scanf("%f", &employee.salary);
 
-    // Output: Display employee information
+    
     printf("\nEmployee Information:\n");
     printf("Name: %s", employee.name);
     printf("Employee ID: %d\n", employee.employeeID);

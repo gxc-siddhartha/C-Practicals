@@ -24,17 +24,14 @@ void displayMatrix(int rows, int columns, int matrix[10][10]) {
         printf("\n");
     }
 }
-
 int main() {
     int rows, columns;
-
-    // Input: Prompt the user to enter the number of rows and columns
+    
     printf("Enter the number of rows: ");
     scanf("%d", &rows);
     printf("Enter the number of columns: ");
     scanf("%d", &columns);
-
-    // Input: Prompt the user to enter elements for the first matrix
+    
     printf("Enter elements for the first matrix:\n");
     int matrix1[10][10];
     for (int i = 0; i < rows; ++i) {
@@ -43,8 +40,7 @@ int main() {
             scanf("%d", &matrix1[i][j]);
         }
     }
-
-    // Input: Prompt the user to enter elements for the second matrix
+    
     printf("Enter elements for the second matrix:\n");
     int matrix2[10][10];
     for (int i = 0; i < rows; ++i) {
@@ -53,16 +49,14 @@ int main() {
             scanf("%d", &matrix2[i][j]);
         }
     }
-
-    // Perform Matrix Addition
+    
     int additionResult[10][10];
     matrixAddition(rows, columns, matrix1, matrix2, additionResult);
 
-    // Perform Matrix Subtraction
     int subtractionResult[10][10];
     matrixSubtraction(rows, columns, matrix1, matrix2, subtractionResult);
 
-    // Output: Display the matrices and results
+    
     printf("\nMatrix 1:\n");
     displayMatrix(rows, columns, matrix1);
 

@@ -3,7 +3,6 @@
 #include <float.h> // Used for getting the ranges of floating-point data types.
 
 int main() {
-    // Integer types
     printf("Integer Types:\n");
     printf("Size of char: %lu bytes\n", sizeof(char));
     printf("Range of char: %d to %d\n", CHAR_MIN, CHAR_MAX);
@@ -16,7 +15,6 @@ int main() {
     printf("Size of long long: %lu bytes\n", sizeof(long long));
     printf("Range of long long: %lld to %lld\n", LLONG_MIN, LLONG_MAX);
 
-    // Floating-point types
     printf("\nFloating-Point Types:\n");
     printf("Size of float: %lu bytes\n", sizeof(float));
     printf("Range of float: %.3e to %.3e\n", FLT_MIN, FLT_MAX);
