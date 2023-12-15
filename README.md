@@ -16,8 +16,7 @@
   - [Programs](#programs)
 
 # Introduction
-This repository contains the programs which were discussed during the practical sessions held at IILM University in the year 2023 for the students of 1st year Computer Science branch.
-
+This repository comprises the codebase featured in the practical sessions conducted at IILM University during the first semester of the academic year 2023-24. These programs are curated specifically for students enrolled in the Computer Science branch, first-year curriculum.
 ## Syllabus
 ### Unit 1: Basics of Computer System and Introduction to C
 #### Introduction to Computing elements, Components of computer system:
