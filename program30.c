@@ -4,7 +4,7 @@ void bubbleSort(int arr[], int n) {
     int i, j;
     for (i = 0; i < n-1; i++) {
         for (j = 0; j < n-i-1; j++) {
-            // Swap if the element found is greater than the next element
+            
             if (arr[j] > arr[j+1]) {
                 int temp = arr[j];
                 arr[j] = arr[j+1];
@@ -38,7 +38,7 @@ int main() {
     
     bubbleSort(array, size_of_array);
 
-    // Output the sorted array
+    
     printf("Sorted array: \n");
     printArray(array, size_of_array);
 
